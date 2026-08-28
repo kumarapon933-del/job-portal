@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; margin: 0; background-color: #f4f4f9; }
+header { color: white; text-align: center; padding: 1rem; }
+.container { display: flex; justify-content: center; padding: 20px; }
+.job-card { background: white; padding: 20px; border-radius: 8px; max-width: 600px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; }
+.job-card img { width: 100%; border-radius: 5px; }
+.company { font-weight: bold; color: #555; }
+.btn-apply { display: inline-block; padding: 12px 24px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px; margin-top: 15px; font-size: 16px; font-weight: bold; }
+.btn-apply:hover { background-color: #218838; }
