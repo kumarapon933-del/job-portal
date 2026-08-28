@@ -2,11 +2,11 @@ const SITE_CONFIG = {
   siteTitle: "Latest Job Opportunities",
   landingPage: "https://surl.li/semlzw",
   applyButtonText: "Apply Now – Free",
-  headerBgColor: "#0056b3",
+  headerBgColor: "#2557a7",
   
   
-  jobTitle: "Senior Software Engineer",
+  jobTitle: "Any jon finder",
   companyName: "Tech Solutions Ltd.",
   jobDescription: "We are looking for experienced developers. Click the button below to apply.",
-  jobImage: "https://via.placeholder.com/600x300"
+  jobImage: "[https://upload.wikimedia.org/wikipedia/commons/f/fa/Indeed_logo.svg](https://upload.wikimedia.org/wikipedia/commons/f/fa/Indeed_logo.svg)"
 };
